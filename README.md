@@ -37,7 +37,7 @@ Key Projects
 ------------
 | Project | Description | Technologies | Repos
 |---|---|---|---|
-| Lemon | Web app that uses Mandrill webhooks to capture email event data and performs analytics on data received. | Rails, ActiveRecord, PostgreSQL, RSpec, Capybara | [Lemon](https://github.com/GeekG1rl/lemon) | 
+| Lemon | Web app that uses Mandrill webhooks to capture email event data and performs analytics on data received. | Rails, ActiveRecord, PostgreSQL, RSpec, Capybara | [Backend](https://github.com/GeekG1rl/lemon) | 
 | Happy Belly | Mobile app designed to help people with food allergies or dietary requirements quickly know whether they can eat a certain food by scanning a barcode | Angular, Rails, Ionic, ngCordova, RSpec, Capybara, Karma, Protractor | [Backend](https://github.com/harrim91/allergy_scanner_backend)  [Frontend](https://github.com/harrim91/allergy_scanner_frontend)
 
 Education
