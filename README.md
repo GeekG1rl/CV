@@ -11,15 +11,15 @@ I made peace with the feeling of discomfort and working past the limit of my cur
 [Me as a human](https://twitter.com/marawanot)  
 [Me as a machine](https://github.com/geekg1rl)  
 
+
 Skills
 ------
-
 ### Understanding humans
-I like to help other humans. During hiring week of Makers, I gave a presentation to my cohort and some coaches to educate them about a recruiter's perspective to hiring.  
-I also coached at Rails Girls the very next day following my own graduation.
+I like to help other humans. During hiring week of Makers, I gave a presentation to my cohort and some coaches to educate them about a recruiter's perspective to hiring (I used to be a recruiter). I also coached at Rails Girls the very next day following my own graduation and from October, I will teach kids aged 10+ to code every Saturday.
+Being charitable is really important to me. On Monday, I cut off [ten inches of hair](https://twitter.com/marawanot/status/750674917159497728) that I'd grown specifically for Little Princess Trust who specialise in making wigs for kids.
 
 ### Problem-solving
-When it comes to programming I love to break things apart and see if they can fit back together in new ways. Often, they don't play so nice. I like to fiddle around in the big connected mess called the internet. I'm good at finding the right resources for the job. There are *so* many gems that do what I need. I didn't find a [gem](https://github.com/GeekG1rl/rspect_rspec_formatter) that would prettify RSpec output so I only went and made it with my awesome team.
+When it comes to programming I love to break things apart and see if they can fit back together in new ways. Often, they don't play so nice. I like to fiddle around in the big connected mess called the internet and find the right resources for the job in question. There are *so* many gems that do what I need. I didn't find a [gem](https://rubygems.org/gems/rspect_rspec_formatter) that would prettify RSpec output so I only went and made it with my awesome team.
 
 ### Communication
 I have the ability to explain complex techie jargon to your grandma. Try me. I even contributed to the course materials as I was able to put words together into easier to follow sentences. 
@@ -31,6 +31,7 @@ This is how I like my tea:
 3. 60% boiling water   
 4. 40% cold water  
 5. Teabag out 
+6. Serve
 
 
 Key Projects
@@ -39,6 +40,7 @@ Key Projects
 |---|---|---|---|
 | Lemon | Web app that uses Mandrill webhooks to capture email event data and performs analytics on data received. | Rails, ActiveRecord, PostgreSQL, RSpec, Capybara | [Backend](https://github.com/GeekG1rl/lemon) | 
 | Happy Belly | Mobile app designed to help people with food allergies or dietary requirements quickly know whether they can eat a certain food by scanning a barcode | Angular, Rails, Ionic, ngCordova, RSpec, Capybara, Karma, Protractor | [Backend](https://github.com/harrim91/allergy_scanner_backend)  [Frontend](https://github.com/harrim91/allergy_scanner_frontend)
+
 
 Education
 ---------
@@ -80,5 +82,5 @@ If bored, read more on [LinkedIn](https://uk.linkedin.com/in/marawanot)
 If you got to the bottom
 ------------------------
 - Immediately available to interview 
-- Catch me on m.d.wanot@hotmail.com or [twitter](https://twitter.com/marawanot) 
+- Catch me on m.d.wanot@hotmail.com or [Twitter](https://twitter.com/marawanot) 
 - Based in Bethnal Green
