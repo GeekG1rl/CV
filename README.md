@@ -30,7 +30,7 @@ This is how I like my tea:
 2. Teabag into mug  
 3. 60% boiling water   
 4. 40% cold water  
-5. Teabag out 
+5. Teabag out   
 6. Serve
 
 
