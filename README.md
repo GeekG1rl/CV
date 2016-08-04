@@ -2,11 +2,7 @@ Mara Wanot
 ----------
 [Skills](#skills) | [Key Projects](#key-projects) | [Education](#education) | [Experience](#non-relevant-experience) | [Contact](#if-you-got-to-the-bottom)
 
-Survivor of Makers Academy, an intensive 16 week coding bootcamp where I learnt how to learn. Mainly focused on coding cleanly in Ruby and now hoping to secure a job as a Junior Backend Developer or DevOps.
-
-I'd like to be adopted by a clever, curious (and hopefully very skilled) team who write software to try to take over the world (or just be really useful to other people).
-
-I made peace with the feeling of discomfort and working past the limit of my current knowledge. Now I can code. Hire me?
+Survivor of Makers Academy, an intensive 16 week coding bootcamp where I learnt how to learn. Mainly focused on coding cleanly in Ruby and JavaScript. I made peace with the feeling of discomfort and working past the limit of my current knowledge. I've now been adopted by the awesome team at the Financial Times where I will write software <strike>to take over the world</strike> that is really useful to people.
 
 [Me as a human](https://twitter.com/marawanot)  
 [Me as a machine](https://github.com/geekg1rl)  
@@ -53,11 +49,10 @@ Education
 - Rspec, Capybara, Jasmine, Karms, Protractor
 - So broke, in final week three of us shared one reduced-price sandwich
 
-### MSc Occupational Therapy @ University of Essex (2012 to 2013)
-
+### MSc Occupational Therapy @ University of Essex (2012 to 2013)   
 - Unfinished, went to live in Ibiza for a while instead
 
-### BSc Sports Science @ University of Essex (2009 to 2012)
+### BSc Sports Science @ University of Essex (2009 to 2012)   
 - Best time of my life
 - Learned how to lead a grown up life
 
@@ -81,6 +76,4 @@ If bored, read more on [LinkedIn](https://uk.linkedin.com/in/marawanot)
 
 If you got to the bottom
 ------------------------
-- Immediately available to interview 
-- Catch me on m.d.wanot@hotmail.com or [Twitter](https://twitter.com/marawanot) 
-- Based in Bethnal Green
+- Say hi on [Twitter](https://twitter.com/marawanot)
