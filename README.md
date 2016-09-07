@@ -12,7 +12,7 @@ Skills
 ------
 ### Understanding humans
 I like to help other humans. During hiring week of Makers, I gave a presentation to my cohort and some coaches to educate them about a recruiter's perspective to hiring (I used to be a recruiter). I also coached at Rails Girls the very next day following my own graduation and from October, I will teach kids aged 10+ to code every Saturday.
-Being charitable is really important to me. On Monday, I cut off [ten inches of hair](https://twitter.com/marawanot/status/750674917159497728) that I'd grown specifically for Little Princess Trust who specialise in making wigs for kids.
+Being charitable is really important to me; in July, I cut off [ten inches of hair](https://twitter.com/marawanot/status/750674917159497728) that I'd grown specifically for Little Princess Trust who specialise in making wigs for kids.
 
 ### Problem-solving
 When it comes to programming I love to break things apart and see if they can fit back together in new ways. Often, they don't play so nice. I like to fiddle around in the big connected mess called the internet and find the right resources for the job in question. There are *so* many gems that do what I need. I didn't find a [gem](https://rubygems.org/gems/rspect_rspec_formatter) that would prettify RSpec output so I only went and made it with my awesome team.
